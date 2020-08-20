@@ -1,0 +1,63 @@
+enemies
+	tiers
+	low - 10-25
+	medium - 25-50
+	high - 50-100
+	sub boss - 250
+	boss 500
+
+forest
+	sickly rat 5
+	rat hp 10
+	wolf 25
+	rabbid dog 10
+	wild boar 25
+	bear 50
+	skinwalker 50
+cave
+	cave spider 50
+	troll 100
+	golem 100
+	rabit bat 50
+ruins
+	steam warrior 200
+	steam centurion 200
+final
+	dwarven machine-king 250;
+	
+weapons
+	wooden sword ap 1-5
+	rusty iron sword 2-6
+	iron sword ap 5-10
+	steel sword ap 8-15
+	legendary sword ap 75-125
+	
+Mars RPG
+	enemies
+	
+locations
+	town //hub
+	forest0 //low level
+	forest1 //low level
+	forest2 //low level
+	forest3 //low level
+	cave0 //medium level
+	cave1 //medium level
+	cave2 //medium level
+	ruins0 //hard level
+	ruins1 //hard level
+	sanctum0 //boss fight
+
+keywords
+cmd
+command
+command line
+terminal
+rpg
+roleplaying game
+retro
+game
+text based
+old school
+indie
+solo developer

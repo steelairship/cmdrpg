@@ -1,0 +1,19 @@
+/*int health = 0;
+int attack = 0;
+health = player.health;
+player.health = player.health - enemy.attack();
+attack = abs(player.health - health);
+cout << "you took " << attack << " damage" << endl;
+enemy.health = enemy.health - player.attack();
+attack = abs(enemy.health - health);
+cout << enemy.name << " took " << attack << " damage" << endl;*/
+
+/*
+attack = enemy.attack();
+player.health = player.health - attack;
+cout << "you took " << attack << " damage" << endl;
+attack = player.attack();
+enemy.health = enemy.health - attack;
+cout << enemy.name << " took " << attack << " damage" << endl; *///attack called twice here will yield different results
+//cout << "health: " << player.health << endl;
+//cout << "rat health: " << enemy.health << endl;
