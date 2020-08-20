@@ -4,8 +4,11 @@ Command RPG
 
 created by Shyheim Williams
 
+to run:
+	run cmdrpg executable
 
-basic commands
+
+basic commands:
 	continue - move to next level
 	back - return to the town
 	attack - attack the enemy
@@ -15,7 +18,7 @@ basic commands
 	help - shows all available commands
 	quit - exit the game
 	
-tips
+tips:
 	don't be afraid to run away if the enemy is too powerful
 	
 	sleeping at the inn can get expensive. Remember to heal yourself so your health doesn't deplete as quickly
